@@ -13,7 +13,7 @@ var meInReact = React.createElement('div', {className: 'me'},
 
 
 
-ReactDom.render(
+ReactDOM.render(
   meInReact,
   document.getElementById('main')
 );
